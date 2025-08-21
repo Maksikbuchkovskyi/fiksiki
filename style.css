@@ -1,0 +1,45 @@
+header{
+background-color:#16dec0;
+color:#333d96;
+padding:20px;
+text-align: center;
+}
+nav{
+    margin-top: 10px;
+    text-align: center;
+    padding:10px;
+}
+.nav-button{
+    background-color:#c7edd5;
+    color:black;
+    padding: 10px 10px;
+    margin: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 2px solid#e68319;
+}
+.block{
+    margin: 20px auto;
+    padding: 15px;
+     border: 2px solid#e68319;
+     border-radius: 10px;
+     text-align: center;
+}
+.block h2{
+    color:#333d96;
+}
+.block ul{
+    list-style-type: none;
+}
+
+footer{
+    background-color: #006263;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+body{
+    background-color:#ebe8da;
+    font-size:20px ;
+}
